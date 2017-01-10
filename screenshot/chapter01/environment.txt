@@ -1,0 +1,4 @@
+Visual Studio for Mac
+Preview 2 (7.0 build 560)
+2017-01-10
+
